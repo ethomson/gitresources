@@ -34,3 +34,23 @@ textarea {
         padding: 10px 15px;
     }
 }
+
+.title {
+  padding: 10px 30px 10px 30px;
+  margin-bottom: 30px;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 2.1428571435;
+  color: inherit;
+  background-color: #eeeeee;
+}
+
+.title h1 {
+  line-height: 1;
+  color: inherit;
+  font-size: 63px;
+}
+
+.title {
+  border-radius: 6px;
+}
