@@ -62,3 +62,13 @@ textarea {
 .title {
   border-radius: 6px;
 }
+
+.sectionheader {
+  padding: 0 15px 0 15px;
+  margin-bottom: -15px;
+}
+
+.sectionheader h2 {
+  border-bottom: solid 1px #cccccc;
+  font-size: 32px;
+}
