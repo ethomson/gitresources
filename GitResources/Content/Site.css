@@ -1,5 +1,5 @@
 ﻿body {
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 20px;
 }
 
@@ -33,6 +33,14 @@ textarea {
         float: none;
         padding: 10px 15px;
     }
+}
+
+.container .jumbotron {
+  padding: 10px 40px 20px 40px;
+}
+
+.container h1 {
+  font-size: 42px;
 }
 
 .title {
