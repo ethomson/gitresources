@@ -43,7 +43,7 @@ textarea {
 /* Make the button in the first paragraph red */
 .container .jumbotron .btn {
     background-color: #ca4242;
-    border-color: #bd3535;
+    border-color: #ff3535;
 }
 
 .container h1 {
