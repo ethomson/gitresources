@@ -40,6 +40,12 @@ textarea {
   background-color: #e0e0ff;
 }
 
+/* Make the button in the first paragraph red */
+.container .jumbotron .btn {
+    background-color: #ca4242;
+    border-color: #bd3535;
+}
+
 .container h1 {
   font-size: 42px;
 }
