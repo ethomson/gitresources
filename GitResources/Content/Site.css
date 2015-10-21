@@ -40,10 +40,10 @@ textarea {
   background-color: #e0e0ff;
 }
 
-/* Make the button in the first paragraph red */
+/* Make the button in the first paragraph green */
 .container .jumbotron .btn {
-    background-color: #ca4242;
-    border-color: #ff3535;
+    background-color: #42ca42;
+    border-color: #35ff35;
 }
 
 .container h1 {
