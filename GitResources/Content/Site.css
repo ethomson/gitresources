@@ -40,6 +40,11 @@ textarea {
   background-color: #e0e0ff;
 }
 
+.container .jumbotron .btn {
+    background-color: darkred;
+    border-color: #bb8888;
+}
+
 .container h1 {
   font-size: 42px;
 }
