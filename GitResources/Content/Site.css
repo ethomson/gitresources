@@ -42,8 +42,8 @@ textarea {
 
 /* Make the button in the first paragraph green */
 .container .jumbotron .btn {
-    background-color: grey;
-    border-color: lightgrey;
+    background-color: darkred;
+    border-color: red;
 }
 
 .container h1 {
